@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi I'm Ngee. 👋
 
-<!--
-**NgeeNosa/NgeeNosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Frontend web developer student at ZURI. `I learn by doing....`
 
-Here are some ideas to get you started:
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Frontend projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/ngozi-faith-6317b71b4/)
+* [Twitter](https://twitter.com/AlanGlee59)
+* [Email](mailto:nwigwefaithngozi@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgeeNosa&layout=compact)](https://github.com/NgeeNosa/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NgeeNosa&show_icons=true&theme=radical)
